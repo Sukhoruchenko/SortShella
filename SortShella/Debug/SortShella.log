@@ -1,0 +1,3 @@
+﻿  Source.cpp
+c:\users\acer\source\repos\sortshella\sortshella\source.cpp(50): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  SortShella.vcxproj -> C:\Users\acer\source\repos\SortShella\Debug\SortShella.exe
